@@ -3,3 +3,4 @@ branchA2
 branchA3
 
 branchB
+branchB2
