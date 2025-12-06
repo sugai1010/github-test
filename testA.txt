@@ -1,7 +1,0 @@
-branchA
-branchA2
-branchA3
-
-branchB
-branchB2
-branchB3
