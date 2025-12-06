@@ -2,6 +2,8 @@ branchA
 branchA2
 branchA3
 
+branchA4
 branchB
 branchB2
 branchB3
+
