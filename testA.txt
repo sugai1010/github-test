@@ -1,3 +1,0 @@
-branchA
-branchA2
-branchA3
